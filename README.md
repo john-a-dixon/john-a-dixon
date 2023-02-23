@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! Ny name is John. Welcome to my Github!
 
 <!--
 **john-a-dixon/john-a-dixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
